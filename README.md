@@ -1,2 +1,2 @@
-# stepic_neural_networks_public
-Дополнительные, вспомогательные и вообще разные материалы к курсу «Нейронные сети» на Stepic.Org
+# stepik_neural_networks
+Hometasks and other materials for course "Neural networks" on Stepik.org
